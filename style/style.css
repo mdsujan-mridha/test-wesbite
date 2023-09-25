@@ -168,3 +168,10 @@ h3 {
     line-height: 40px;
     font-size: 15px;
 }
+
+.work {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
